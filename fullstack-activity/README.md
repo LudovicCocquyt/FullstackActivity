@@ -1,4 +1,4 @@
-#OpenClassRoom - Créer une API REST avec Node, Express et MongoDB #
+#OpenClassRoom - Créer une API REST avec Node, Express et MongoDB -> exercice créer une API avec un CRUD #
 ## Installation ##
 Clone this repo, and run `npm install` from within the project directory.
 ## Using the app ##
